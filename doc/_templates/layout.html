@@ -1,0 +1,34 @@
+{% extends "!layout.html" %}
+
+{% set css_files = css_files + ["_static/overrules.css"] %}
+
+{% block rootrellink %}
+<li><a href="http://zotonic.com">Zotonic Home</a>{{ reldelim1 }}</li>
+{{ super() }}
+{% endblock %}
+
+{% block extrahead %}
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', "UA-7726967-1"]);
+	_gaq.push(['_trackPageview']);
+	_gaq.push(['_setCustomVar',1,'User','True',1]);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+{% endblock %}
+
+{# Under Construction Notice #}
+{#
+{% block document %}
+<div class="admonition note">
+<p class="first admonition-title">Under Construction</p>
+<p class="last">This documentation is under development. Please refer to the <a href="http://zotonic.com/documentation">official documentation</a> if you don't find what you are looking for here.</p>
+</div>
+
+{{ super() }}
+{% endblock %}
+#}

@@ -1,0 +1,56 @@
+%% -*- mode: erlang -*-
+[
+ {mnesia, [
+    {dir, "priv/mnesia"}
+ ]},
+
+ {emqtt, [
+    {auth, {zotonic, []}},
+    {access_control, {z_mqtt_auth, with_access_control}},
+    {listeners, [
+        %%% Unescape to enable MQTT on the given port
+        % {1883,  [
+        %     binary,
+        %     {packet,        raw},
+        %     {reuseaddr,     true},
+        %     {backlog,       128},
+        %     {nodelay,       true}
+        % ]}
+    ]}
+ ]},
+
+ {lager,
+  [{handlers,
+    [
+      {lager_console_backend, info},
+      {lager_file_backend, [{file, "priv/sasl/error.log"},   {level, error}]},
+      {lager_file_backend, [{file, "priv/sasl/console.log"}, {level, info}]}
+    ]},
+   {crash_log, "priv/log/crash.log"}
+  ]},
+
+ {webzmachine,
+  [
+%%% Logger module, use this option to set your own.
+   %% {webmachine_logger_module, z_stats}, % <- default set by Zotonic
+   %% {webmachine_logger_module, webmachine_logger}, % <- webmachine default
+
+%%% Error handler module, use this option to set your own.
+   %% {error_handler, z_webmachine_error_handler}, % <- default set by Zotonic
+   %% {error_handler, webmachine_error_handler}, % <- webmachine default
+
+%%% Set this option to false if you want webmachine to write info about
+%%% opening/closing log files to the Erlang console.
+   %% {silent_console, true},
+
+%%% Location of access logs (logging is disabled if not set).
+   {log_dir, "priv/log/access/"},
+
+%%% Location of performance logs (logging is disabled if not set).
+   %% {perf_log_dir, "priv/log/perf/"},
+
+%%% Location of wmtrace logs (defaults to "priv/wmtrace" if not specified).
+   {wmtrace_dir, "priv/log/wmtrace/"}
+
+  ]}
+].
