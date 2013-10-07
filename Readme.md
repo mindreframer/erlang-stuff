@@ -71,29 +71,25 @@ Twitter:
 
     archaelus/eshellcode:
       Erlang Shellcode snippets
-       71 commits, last change: 2013-03-26 17:06:21, 33 stars, 3 forks
+       71 commits, last change: , 34 stars, 4 forks
 
-    erlang/otp:
-      Erlang/OTP
-       1000+ commits, last change: 2013-07-09 06:18:59, 1,911 stars, 579 forks
+    Asana/kraken:
+      Distributed Pubsub Server for Realtime Apps
+       40 commits, last change: 2013-10-02 13:20:16, 156 stars, 21 forks
 
     erlware/Erlang-and-OTP-in-Action-Source:
       The official "Erlang and OTP in Action" source code - see the README below for more details
-       62 commits, last change: 2013-04-06 06:54:30, 136 stars, 49 forks
+       62 commits, last change: 2013-04-06 06:54:30, 155 stars, 62 forks
 
     erlware/erlware_commons:
       Erlware Commons is an Erlware project focused on all aspects of reusable Erlang components.
-       111 commits, last change: 2013-04-24 11:12:01, 51 stars, 16 forks
+       113 commits, last change: 2013-09-17 05:12:02, 54 stars, 19 forks
 
     ndpar/erlang:
       Exercises from books "Erlang Programming" and "Programming Erlang", as well as other experiments in Erlang.
-       49 commits, last change: , 2 stars, 0 forks
-
-    sasa1977/elixir_websocket:
-      simple Elixir websocket example
-       16 commits, last change: 2013-05-23 11:40:10, 1 stars, 0 forks
+       49 commits, last change: 2013-06-16 17:33:08, 3 stars, 3 forks
 
     zotonic/zotonic:
       Zotonic - The Erlang Web Framework  CMS
-       1000+ commits, last change: 2013-06-19 06:28:11, 223 stars, 80 forks
+       4,054 commits, last change: 2013-10-03 00:13:40, 243 stars, 84 forks
 <!-- PROJECTS_LIST_END -->
