@@ -1,0 +1,1090 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# NB: Consider using poEdit <http://poedit.sourceforge.net>
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2012-12-28 13:39+0200\n"
+"Last-Translator: furiston <furiston@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: modules/mod_admin/templates/_admin_edit_block_addblock.tpl:4
+msgid "+ add block"
+msgstr "+ blok ekle"
+
+#: modules/mod_admin/templates/admin_edit.tpl:37
+msgid "<em>untitled</em>"
+msgstr "<em>başlıksız</em>"
+
+#: modules/mod_admin/templates/_admin_edit_content_person.tpl:12
+msgid "<strong>First</strong> also known as given name, forename or Christen name.<br/><strong>Middle</strong> often shortened to an initial like in <em>John D. Rockefeller</em>.<br/><strong>Surname prefix</strong> like the Dutch <em>van, van de, der</em>.<br/><strong>Surname</strong> also known as family name or last name."
+msgstr "<strong>Ad</strong><br/><strong>İkinci ad</strong>örn: <em>John D. Rockefeller</em>.<br/><strong>Soyadı öneki</strong> örn: <em>van, van de, der</em>.<br/><strong>Soyadı</strong>."
+
+#: modules/mod_admin/templates/_action_dialog_edit_basics.tpl:14
+#: modules/mod_admin/templates/_admin_edit_content_acl.tpl:5
+#: modules/mod_admin/templates/_admin_edit_content_acl.tpl:11
+msgid "Access control"
+msgstr "Erişim kontrolü"
+
+#: modules/mod_admin/templates/_admin_edit_depiction.tpl:18
+#: modules/mod_admin/templates/_admin_edit_content_page_connections.tpl:37
+msgid "Add a connection: "
+msgstr "Bir bağlantı ekle:"
+
+#: modules/mod_admin/templates/_action_dialog_zmedia_choose.tpl:19
+msgid "Add a new media item"
+msgstr "Yeni bir medya öğesi ekle"
+
+#: modules/mod_admin/templates/_admin_edit_body.tpl:20
+msgid "Add link"
+msgstr "Bağlantı ekle"
+
+#: modules/mod_admin/templates/_admin_edit_body.tpl:10
+msgid "Add media to body"
+msgstr "Gövdeye görsel ekle"
+
+#: modules/mod_admin/mod_admin.erl:313
+msgid "Added the connection to"
+msgstr "Bağlantı eklendi"
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:5
+msgid "Address"
+msgstr "Adres"
+
+#: modules/mod_admin/templates/admin_base.tpl:5
+msgid "Admin"
+msgstr "Yönetici"
+
+#: modules/mod_admin/templates/admin_logon.tpl:4
+msgid "Admin log on"
+msgstr "Yönetici girişi"
+
+#: modules/mod_admin/templates/_admin_edit_content_advanced.tpl:5
+msgid "Advanced"
+msgstr "İleri seviye"
+
+#: modules/mod_admin/templates/admin_overview.tpl:14
+msgid "All Categories"
+msgstr "Tüm kategoriler"
+
+#: modules/mod_admin/templates/admin.tpl:24
+#: modules/mod_admin/templates/admin_media.tpl:24
+#: modules/mod_admin/templates/admin_overview.tpl:51
+msgid "All media"
+msgstr "Tüm görseller"
+
+#: modules/mod_admin/templates/admin.tpl:23
+#: modules/mod_admin/templates/admin_media.tpl:23
+#: modules/mod_admin/templates/admin_overview.tpl:50
+msgid "All pages"
+msgstr "Tüm sayfalar"
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:24
+msgid "Alternative telephone"
+msgstr "Alternatif telefon"
+
+#: modules/mod_admin/templates/admin_media.tpl:13
+msgid "And media can also be viewed on their own page."
+msgstr "Görseller kendi sayfalarında da görüntülenebilirler."
+
+#: modules/mod_admin/templates/_action_dialog_connect_tab_find.tpl:10
+msgid "Any category"
+msgstr "Herhangi bir kategori"
+
+#: modules/mod_admin/templates/_action_dialog_delete_rsc.tpl:2
+msgid "Are you sure you want to delete the page"
+msgstr "Sayfayı silmek istediğinizden emin misiniz?"
+
+#: modules/mod_admin/templates/_admin_menu.tpl:40
+msgid "Are you sure you want to exit the admin interface?"
+msgstr "Yönetici arayüzünden çıkmak istediğinizden emin misiniz?"
+
+#: modules/mod_admin/templates/_admin_edit_block_show_as.tpl:7
+msgid "Aside"
+msgstr "Yana"
+
+#: modules/mod_admin/templates/_admin_edit_content_seo.tpl:40
+msgid "Ask google to not index this page"
+msgstr "Google bu sayfayı indekslemesin"
+
+#: modules/mod_admin/templates/_admin_edit_depiction.tpl:3
+#: modules/mod_admin/templates/_action_dialog_connect.tpl:13
+msgid "Attached media"
+msgstr "Ekli medya"
+
+#: modules/mod_admin/mod_admin.erl:115
+msgid "Auth"
+msgstr "Yetki"
+
+#: modules/mod_admin/templates/_admin_edit_basics.tpl:3
+msgid "Basic"
+msgstr "Temel"
+
+#: modules/mod_admin/templates/blocks/_admin_edit_block_li_text.tpl:3
+#: modules/mod_admin/templates/blocks/_admin_edit_block_li_header.tpl:3
+msgid "Block"
+msgstr "Blok"
+
+#: modules/mod_admin/templates/_admin_edit_block_li.tpl:7
+msgid "Block name"
+msgstr "Blok ismi"
+
+#: modules/mod_admin/templates/_admin_edit_block_show_as.tpl:6
+msgid "Block quote"
+msgstr "Blok alıntısı"
+
+#: modules/mod_admin/templates/_action_dialog_new_rsc_tab.tpl:61
+#: modules/mod_admin/templates/_admin_edit_blocks.tpl:30
+#: modules/mod_admin/templates/_action_dialog_delete_rsc.tpl:6
+#: modules/mod_admin/templates/_action_dialog_media_upload_tab_url.tpl:35
+#: modules/mod_admin/templates/_action_dialog_duplicate_rsc.tpl:25
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:15
+#: modules/mod_admin/templates/_action_dialog_edit_basics.tpl:57
+#: modules/mod_admin/templates/_action_dialog_zlink.tpl:19
+#: modules/mod_admin/templates/_action_dialog_change_category.tpl:16
+msgid "Cancel"
+msgstr "İptal"
+
+#: modules/mod_admin/templates/_action_dialog_new_rsc_tab.tpl:20
+#: modules/mod_admin/templates/admin_referrers.tpl:21
+#: modules/mod_admin/templates/_admin_overview_list.tpl:8
+#: modules/mod_admin/templates/_action_dialog_edit_basics.tpl:32
+#: modules/mod_admin/templates/admin_widget_dashboard_latest.tpl:32
+msgid "Category"
+msgstr "Kategori"
+
+#: modules/mod_admin/templates/admin_edit.tpl:29
+#: modules/mod_admin/templates/admin_edit.tpl:30
+msgid "Change category"
+msgstr "Kategoriyi değiştir"
+
+#: modules/mod_admin/templates/_action_dialog_zmedia_choose.tpl:10
+msgid "Choose a media item from this page to insert in the body text."
+msgstr "Gövde metnine eklemek için bu sayfadan medya seçiniz."
+
+#: modules/mod_admin/templates/_action_dialog_change_category.tpl:9
+msgid "Choose the new category for this page."
+msgstr "Bu sayfa için yeni bir kategori seçiniz."
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:97
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:162
+msgid "City"
+msgstr "Şehir"
+
+#: modules/mod_admin/templates/_admin_edit_visible_for.tpl:7
+msgid "Community members"
+msgstr "Topluluk üyeleri"
+
+#: modules/mod_admin/templates/_admin_edit_blocks.tpl:28
+msgid "Confirm block removal"
+msgstr "Bloğu kaldırmayı onayla"
+
+#: modules/mod_admin/actions/action_admin_dialog_delete_rsc.erl:48
+msgid "Confirm delete"
+msgstr "Silmeyi onayla"
+
+#: modules/mod_admin/templates/_admin_menu.tpl:40
+msgid "Confirm logoff"
+msgstr "Çıkışı onayla"
+
+#: modules/mod_admin/templates/blocks/_admin_edit_block_li_page.tpl:10
+msgid "Connect a page"
+msgstr "Sayfaya bağlan"
+
+#: modules/mod_admin/templates/_admin_edit_body.tpl:3
+#: modules/mod_admin/mod_admin.erl:92
+msgid "Content"
+msgstr "İçerik"
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:60
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:125
+msgid "Country"
+msgstr "Ülke"
+
+#: modules/mod_admin/templates/admin_edit.tpl:16
+msgid "Created by"
+msgstr "Oluşturan"
+
+#: modules/mod_admin/templates/_admin_overview_list.tpl:11
+msgid "Created on"
+msgstr "Oluşturulduğu tarih"
+
+#: modules/mod_admin/templates/_admin_edit_content_seo.tpl:15
+msgid "Customize page slug"
+msgstr "Sayfa slug'ını değiştir"
+
+#: modules/mod_admin/templates/admin.tpl:3
+#: modules/mod_admin/templates/admin.tpl:14
+#: modules/mod_admin/mod_admin.erl:87
+msgid "Dashboard"
+msgstr "Kontrol paneli"
+
+#: modules/mod_admin/templates/_admin_edit_content_date_range.tpl:5
+msgid "Date range"
+msgstr "Zaman aralığı"
+
+#: modules/mod_admin/templates/_admin_edit_content_acl.tpl:11
+msgid "Define who can see or edit this page."
+msgstr "Bu sayfayı kimin görebileceğini ve düzenleyebileceğini tanımla."
+
+#: modules/mod_admin/templates/_admin_edit_blocks.tpl:31
+#: modules/mod_admin/templates/_action_dialog_delete_rsc.tpl:7
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:57
+msgid "Delete"
+msgstr "Sil"
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:57
+msgid "Delete this page."
+msgstr "Bu sayfayı sil."
+
+#: modules/mod_admin/templates/_rsc_edge_media.tpl:9
+#: modules/mod_admin/templates/_rsc_edge.tpl:7
+#: modules/mod_admin/templates/_admin_edit_block_li.tpl:5
+msgid "Disconnect"
+msgstr "Bağlantıyı kes"
+
+#: modules/mod_admin/templates/_admin_edit_blocks.tpl:29
+msgid "Do you want to remove this block?"
+msgstr "Bu bloğu kaldırmak istediğinizden emin misiniz?"
+
+#: modules/mod_admin/templates/_admin_edit_media.tpl:23
+msgid "Download"
+msgstr "İndir"
+
+#: modules/mod_admin/templates/_rsc_edge.tpl:6
+msgid "Drag to change connection position"
+msgstr "Bağlantı pozisyonunu değiştirmek için sürükle"
+
+#: modules/mod_admin/templates/_admin_edit_block_li.tpl:4
+msgid "Drag to change position"
+msgstr "Pozisyonu değiştirmek için sürükle"
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:61
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:64
+msgid "Duplicate"
+msgstr "Çoğalt"
+
+#: modules/mod_admin/templates/_action_dialog_duplicate_rsc.tpl:26
+msgid "Duplicate page"
+msgstr "Sayfayı çoğalt"
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:61
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:66
+msgid "Duplicate this page."
+msgstr "Bu sayfayı çoğalt."
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:40
+msgid "E-mail address"
+msgstr "E-mail adresi"
+
+#: modules/mod_admin/templates/_rsc_edge.tpl:8
+#: modules/mod_admin/templates/admin_edit.tpl:3
+msgid "Edit"
+msgstr "Düzenle"
+
+#: modules/mod_admin/templates/_edit_link.tpl:21
+msgid "Edit this page"
+msgstr "Bu sayfayı düzenle"
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:13
+msgid "Electronic address"
+msgstr "Elektronik adres"
+
+#: modules/mod_admin/mod_admin.erl:135
+msgid "Embed page"
+msgstr "Sayfa yerleştir"
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:31
+msgid "Emergency telephone"
+msgstr "Acil telefonu"
+
+#: modules/mod_admin/actions/action_admin_dialog_media_upload.erl:161
+msgid "Error uploading the file."
+msgstr "Dosya yükleme hatası."
+
+#: modules/mod_admin/templates/_admin_edit_content_date_range.tpl:12
+msgid "Every page can have a date range. For example if the page is an event or description of someone’s life."
+msgstr "Her sayfa tarih aralığına sahip olabilir. Örneğin sayfa bir etkinlik veya birinin hayatını tanımlıyorsa."
+
+#: modules/mod_admin/templates/_action_dialog_change_category.tpl:1
+msgid "Every page is categorized in exactly one category.  The category defines what the page represents. For example an event, a product or a person.  The categories are hierarchically defined. In that way you can have a vehicles category with subcategories car and bicycle."
+msgstr "Her sayfa sadece tek bir kategoriye ait olabilir. Kategori sayfanın neyle alakalı olduğunu gösterir. Örneğin bir etkinlik, bir ürün veya bir kişi. Kategoriler hiyerarşik olarak tanımlanır. Bu yolla araçlar kategorisinin altında bisiklet ve araba şeklinde kategoriler yaratabilirsiniz."
+
+#: modules/mod_admin/actions/action_admin_dialog_media_upload.erl:158
+msgid "Failed to download the file."
+msgstr "Dosya indirme hatası."
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:36
+msgid "Featured"
+msgstr "Özellikli"
+
+#: modules/mod_admin/templates/_admin_edit_content_media.tpl:5
+msgid "File / media content"
+msgstr "Dosya / medya içeriği"
+
+#: modules/mod_admin/templates/admin_overview.tpl:11
+msgid "Filter on category"
+msgstr "Kategori filtresi"
+
+#: modules/mod_admin/templates/_action_dialog_connect.tpl:17
+msgid "Find Page"
+msgstr "Sayfayı bul"
+
+#: modules/mod_admin/templates/_action_dialog_connect_tab_find.tpl:2
+msgid "Find an existing page to connect"
+msgstr "Bağlamak için varolan bir sayfayı bul"
+
+#: modules/mod_admin/templates/_admin_edit_blocks.tpl:89
+msgid "Find page"
+msgstr "Sayfayı bul"
+
+#: modules/mod_admin/templates/_admin_edit_content_person.tpl:18
+msgid "First"
+msgstr "İlk"
+
+#: modules/mod_admin/templates/admin_status.tpl:17
+msgid "Flush all URL dispatch rules, template- and library caches and other in-memory cached data."
+msgstr "Tüm URL eşleme kurallarını, tema ve kütüphane belleklerini ve bellekteki diğer verileri sıfırla."
+
+#: modules/mod_admin/templates/admin_status.tpl:16
+msgid "Flush system caches"
+msgstr "Sistem belleğini sıfırla"
+
+#: modules/mod_admin/templates/_admin_edit_content_date_range.tpl:18
+msgid "From"
+msgstr "Kimden"
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:15
+msgid "Go back."
+msgstr "Geri dön."
+
+#: modules/mod_admin/templates/_admin_edit_visible_for.tpl:8
+msgid "Group members"
+msgstr "Grup üyeleri"
+
+#: modules/mod_admin/templates/blocks/_admin_edit_block_li_header.tpl:15
+#: modules/mod_admin/mod_admin.erl:133
+msgid "Header"
+msgstr "Başlık"
+
+#: modules/mod_admin/templates/_admin_edit_content_date_range.tpl:12
+msgid "Help about date ranges."
+msgstr "Tarih aralığı yardımı."
+
+#: modules/mod_admin/templates/_admin_edit_content_page_connections.tpl:15
+msgid "Help about page connections."
+msgstr "Sayfa bağlantıları yardımı"
+
+#: modules/mod_admin/templates/_admin_edit_content_person.tpl:12
+msgid "Help about person name."
+msgstr "Kişi adı yardımı"
+
+#: modules/mod_admin/templates/_admin_edit_content_pub_period.tpl:12
+msgid "Help about publication date range."
+msgstr "Yayınlanma tarih aralığı yardımı."
+
+#: modules/mod_admin/templates/_admin_edit_content.query.tpl:14
+msgid ""
+"Here you can edit the arguments of the  search query. Every argument goes on its own line. For more information, see the\n"
+"\t\t<a href=\"http://zotonic.com/documentation/761/the-query-search-model\">documentation on the query arguments</a> on the Zotonic website."
+msgstr ""
+"Burada arama sorgusu argümanlarını düzenleyebilirsiniz. Her argüman kendi satırında devam eder. Daha fazla bilgi için \n"
+"\t\t<a href=\"http://zotonic.com/documentation/761/the-query-search-model\"> Zotonic dokümentasyon sayfasını ziyaret edin."
+
+#: modules/mod_admin/templates/_admin_edit_content_person.tpl:12
+msgid "Here you can edit the person's name.  Use the title of the base content for the display name of this person."
+msgstr "Burada kişi ismini düzenleyebilirsiniz. İçerik başlığını kullanarak bu kişinin ismini görüntüleyiniz."
+
+#: modules/mod_admin/templates/admin_media.tpl:34
+msgid "Info"
+msgstr "Bilgi"
+
+#: modules/mod_admin/templates/_admin_edit_block_show_as.tpl:5
+msgid "Info link with modal popup"
+msgstr "Popup ile bilgi bağlantısı"
+
+#: modules/mod_admin/templates/_admin_edit_block_show_as.tpl:4
+msgid "Inline block"
+msgstr "Satıriçi bloğu"
+
+#: modules/mod_admin/templates/_admin_edit_body.tpl:13
+msgid "Insert image"
+msgstr "Mesaj ekle"
+
+#: modules/mod_admin/templates/admin.tpl:46
+msgid "Latest modified events"
+msgstr "Son değişen olaylar"
+
+#: modules/mod_admin/templates/admin.tpl:41
+msgid "Latest modified locations"
+msgstr "Son değişen konumlar"
+
+#: modules/mod_admin/templates/admin.tpl:50
+msgid "Latest modified media items"
+msgstr "Son değişen medya öğeleri"
+
+#: modules/mod_admin/templates/admin.tpl:34
+msgid "Latest modified persons"
+msgstr "Son değişen kişiler"
+
+#: modules/mod_admin/templates/admin.tpl:31
+msgid "Latest modified texts"
+msgstr "Son değişen metinler"
+
+#: modules/mod_admin/templates/_admin_edit_content.query.tpl:28
+msgid "Live query, send notifications when matching items are updated or inserted."
+msgstr "Canlı sorgu, eşleşen öğeler güncellendiğinde veya girildiğinde bilgilendir."
+
+#: modules/mod_admin/templates/_admin_menu.tpl:39
+msgid "Log Off"
+msgstr "Çıkış"
+
+#: modules/mod_admin/templates/admin_logon.tpl:21
+msgid "Log on to"
+msgstr "Giriş yap"
+
+#: modules/mod_admin/templates/admin.tpl:9
+msgid "Logged in as"
+msgstr "Şu isimle giriş yapıldı"
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:121
+msgid "Mailing address"
+msgstr "Posta adresi"
+
+#: modules/mod_admin/templates/_action_dialog_edit_basics.tpl:13
+msgid "Main"
+msgstr "Ana"
+
+#: modules/mod_admin/templates/_action_dialog_new_rsc_tab.tpl:62
+msgid "Make"
+msgstr "Oluştur"
+
+#: modules/mod_admin/templates/admin_media.tpl:20
+msgid "Make a new media item"
+msgstr "Yeni bir medya öğesi oluştur"
+
+#: modules/mod_admin/templates/admin.tpl:18
+#: modules/mod_admin/templates/admin_overview.tpl:45
+msgid "Make a new page or media"
+msgstr "Yeni bir sayfa veya medya oluştur"
+
+#: modules/mod_admin/templates/_action_dialog_media_upload_tab_url.tpl:36
+msgid "Make media item"
+msgstr "Yeni medya öğesi oluştur"
+
+#: modules/mod_admin/templates/admin_media.tpl:3
+#: modules/mod_admin/templates/admin_media.tpl:9
+#: modules/mod_admin/mod_admin.erl:100
+msgid "Media"
+msgstr "Medya"
+
+#: modules/mod_admin/templates/_action_dialog_media_upload_tab_url.tpl:27
+msgid "Media URL"
+msgstr "Medya URL adresi"
+
+#: modules/mod_admin/templates/admin_media.tpl:12
+msgid "Media encompasses all uploaded images, movies and documents. Media can be attached to pages."
+msgstr "Medya yüklenen tüm resimler, filmler ve dokümanları ihtiva eder. Medya sayfalara eklenebilir."
+
+#: modules/mod_admin/templates/_action_dialog_media_upload_tab_upload.tpl:25
+msgid "Media file"
+msgstr "Medya dosyası"
+
+#: modules/mod_admin/actions/action_admin_dialog_media_upload.erl:132
+#: modules/mod_admin/actions/action_admin_dialog_media_upload.erl:144
+msgid "Media item created."
+msgstr "Medya öğesi oluşturuldu."
+
+#: modules/mod_admin/templates/_action_dialog_zmedia_choose.tpl:4
+msgid "Media on this page"
+msgstr "Bu sayfadaki medya"
+
+#: modules/mod_admin/templates/_action_dialog_media_upload_tab_url.tpl:18
+#: modules/mod_admin/templates/_action_dialog_media_upload_tab_upload.tpl:17
+msgid "Media title"
+msgstr "Medya başlığı"
+
+#: modules/mod_admin/templates/_admin_edit_content_person.tpl:25
+msgid "Middle"
+msgstr "Orta"
+
+#: modules/mod_admin/templates/admin_edit.tpl:14
+msgid "Modified"
+msgstr "Değiştirildi"
+
+#: modules/mod_admin/templates/admin_referrers.tpl:24
+#: modules/mod_admin/templates/_admin_overview_list.tpl:17
+msgid "Modified by"
+msgstr "Değiştiren"
+
+#: modules/mod_admin/templates/admin_referrers.tpl:23
+#: modules/mod_admin/templates/_admin_overview_list.tpl:14
+msgid "Modified on"
+msgstr "Değiştirildiği tarih"
+
+#: modules/mod_admin/mod_admin.erl:110
+msgid "Modules"
+msgstr "Modüller"
+
+#: modules/mod_admin/templates/_action_dialog_new_rsc_tab.tpl:41
+msgid "Name"
+msgstr "İsim"
+
+#: modules/mod_admin/templates/_admin_edit_content_date_range.tpl:12
+#: modules/mod_admin/templates/_admin_edit_content_page_connections.tpl:15
+#: modules/mod_admin/templates/_admin_edit_content_person.tpl:12
+#: modules/mod_admin/templates/_admin_edit_content_acl.tpl:11
+#: modules/mod_admin/templates/_admin_edit_content_pub_period.tpl:12
+msgid "Need more help?"
+msgstr "Daha fazla yardım?"
+
+#: modules/mod_admin/templates/_action_dialog_connect.tpl:8
+#: modules/mod_admin/templates/_action_dialog_connect.tpl:21
+msgid "New Page"
+msgstr "Yeni sayfa"
+
+#: modules/mod_admin/templates/_action_dialog_new_rsc.tpl:3
+msgid "New page"
+msgstr "Yeni sayfa"
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:52
+msgid "Next in category: "
+msgstr "Bu kategorideki bir sonraki:"
+
+#: modules/mod_admin/templates/admin_widget_dashboard_latest.tpl:57
+msgid "No items."
+msgstr "Öğe yok."
+
+#: modules/mod_admin/templates/admin_media.tpl:71
+msgid "No media found."
+msgstr "Medya bulunamadı."
+
+#: modules/mod_admin/templates/admin_referrers.tpl:48
+#: modules/mod_admin/templates/_admin_overview_list.tpl:42
+msgid "No pages found."
+msgstr "Sayfa bulunmadı."
+
+#: modules/mod_admin/templates/_admin_edit_content_page_connections.tpl:5
+msgid "Page connections"
+msgstr "Sayfa bağlantıları"
+
+#: modules/mod_admin/templates/_admin_edit_content_seo.tpl:54
+msgid "Page description"
+msgstr "Sayfa tanımı"
+
+#: modules/mod_admin/templates/_admin_edit_content_seo.tpl:46
+msgid "Page keywords"
+msgstr "Sayfa anahtar kelimeleri"
+
+#: modules/mod_admin/templates/_admin_edit_content_advanced.tpl:16
+msgid "Page path, default is"
+msgstr "Sayfa yolu, varsayılan"
+
+#: modules/mod_admin/templates/_admin_edit_content_seo.tpl:16
+msgid "Page slug"
+msgstr "Sayfa slug'ı"
+
+#: modules/mod_admin/templates/_action_dialog_new_rsc_tab.tpl:12
+#: modules/mod_admin/templates/_admin_edit_content_seo.tpl:25
+msgid "Page title"
+msgstr "Sayfa başlığı"
+
+#: modules/mod_admin/templates/admin_overview.tpl:3
+#: modules/mod_admin/mod_admin.erl:96
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: modules/mod_admin/templates/admin_overview.tpl:33
+msgid "Pages overview"
+msgstr "Sayfalar genel bakış"
+
+#: modules/mod_admin/templates/_admin_edit_content_person.tpl:5
+msgid "Person name"
+msgstr "Kişi adı"
+
+#: modules/mod_admin/templates/_action_dialog_new_rsc_tab.tpl:6
+msgid "Please fill in the title"
+msgstr "Lütfen başlığı doldurunuz"
+
+#: modules/mod_admin/templates/_action_dialog_duplicate_rsc.tpl:3
+msgid "Please fill in the title of the new page."
+msgstr "Lütfen yeni sayfanın başlığını doldurunuz."
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:104
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:169
+msgid "Postcode"
+msgstr "Posta kodu"
+
+#: modules/mod_admin/templates/admin_referrers.tpl:22
+msgid "Predicate"
+msgstr "Öncül"
+
+#: modules/mod_admin/templates/admin_media.tpl:32
+msgid "Preview"
+msgstr "Önizleme"
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:48
+msgid "Previous in category: "
+msgstr "Bu kategoride bir önceki:"
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:41
+msgid "Protect"
+msgstr "Koru"
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:39
+msgid "Protect from deletion"
+msgstr "Silinmekten koru"
+
+#: modules/mod_admin/templates/_admin_edit_content_pub_period.tpl:29
+msgid "Publication date of original article"
+msgstr "Orijinal makalenin yayın tarihi"
+
+#: modules/mod_admin/templates/_admin_edit_content_pub_period.tpl:5
+msgid "Publication period"
+msgstr "Yayın periyodu"
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:5
+msgid "Publish this page"
+msgstr "Sayfayı yayınla"
+
+#: modules/mod_admin/templates/_action_dialog_new_rsc_tab.tpl:50
+#: modules/mod_admin/templates/_action_dialog_duplicate_rsc.tpl:18
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:31
+#: modules/mod_admin/templates/_action_dialog_edit_basics.tpl:40
+msgid "Published"
+msgstr "Yayınlandı"
+
+#: modules/mod_admin/templates/_admin_edit_content.query.tpl:18
+msgid "Query"
+msgstr "Sorgu"
+
+#: modules/mod_admin/templates/_admin_edit_content.query.tpl:32
+msgid "Query preview"
+msgstr "Sorgu önizleme"
+
+#: modules/mod_admin/templates/admin_status.tpl:24
+msgid "Rebuild all search-indices by putting all pages and data from the database in the indexer queue. This can take a long time!"
+msgstr "Tüm arama indekslerini veritabanındaki indeks sırasına ve sayfalara göre yeniden oluştur. Bu uzun süre alabilir!"
+
+#: modules/mod_admin/templates/admin_status.tpl:23
+msgid "Rebuild search indices"
+msgstr "Arama indekslerini yeniden oluştur"
+
+#: modules/mod_admin/templates/admin_status.tpl:31
+msgid "Recalculate the numbering of the category tree. This can take a long time."
+msgstr "Kategori ağacının numaralandırılmasını yeniden hesapla. Bu uzun süre alabilir."
+
+#: modules/mod_admin/templates/admin_referrers.tpl:3
+#: modules/mod_admin/templates/admin_referrers.tpl:7
+msgid "Referrers to"
+msgstr "Referanslar"
+
+#: modules/mod_admin/templates/_admin_edit_content_date_range.tpl:32
+msgid "Remarks"
+msgstr "Uyarılar"
+
+#: modules/mod_admin/templates/admin_status.tpl:30
+msgid "Renumber category tree"
+msgstr "Kategori ağacını tekrar numaralandır"
+
+#: modules/mod_admin/templates/_action_dialog_media_upload_tab_url.tpl:36
+msgid "Replace media item"
+msgstr "Medya öğesini değiştir"
+
+#: modules/mod_admin/templates/_admin_edit_media.tpl:24
+#: modules/mod_admin/templates/_admin_edit_media.tpl:37
+msgid "Replace this media item"
+msgstr "Bu medya öğesini değiştir"
+
+#: modules/mod_admin/templates/_admin_edit_content_seo.tpl:5
+msgid "SEO Content"
+msgstr "SEO içeriği"
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:17
+#: modules/mod_admin/templates/_action_dialog_edit_basics.tpl:59
+#: modules/mod_admin/templates/_action_dialog_change_category.tpl:17
+msgid "Save"
+msgstr "Kaydet"
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:20
+msgid "Save &amp; view"
+msgstr "Kaydet &amp; Görüntüle"
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:20
+msgid "Save and view the page."
+msgstr "Kaydet ve görüntüle."
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:17
+msgid "Save this page."
+msgstr "Bu sayfayı kaydet."
+
+#: modules/mod_admin/templates/_action_dialog_zmedia_choose.tpl:5
+msgid "Search other media"
+msgstr "Başka medya ara"
+
+#: modules/mod_admin/templates/_admin_edit_content.query.tpl:6
+msgid "Search query"
+msgstr "Arama sorgusu"
+
+#: modules/mod_admin/templates/_action_dialog_connect_tab_depictions.tpl:2
+msgid "Select a connected image"
+msgstr "Bağlantılı resmi seç"
+
+#: modules/mod_admin/templates/_admin_edit_basics_form.tpl:27
+msgid "Short title"
+msgstr "Kısa başlık"
+
+#: modules/mod_admin/templates/_admin_edit_block_show_as.tpl:2
+msgid "Show as"
+msgstr "Göster"
+
+#: modules/mod_admin/actions/action_admin_dialog_edit_basics.erl:125
+msgid "Something went wrong. Sorry."
+msgstr "Bir hata oluştu. Üzgünüz."
+
+#: modules/mod_admin/mod_admin.erl:317
+msgid "Sorry, you have no permission to add the connection."
+msgstr "Üzgünüz, bağlantı ekleme yetkiniz yok."
+
+#: modules/mod_admin/mod_admin.erl:132
+msgid "Standard"
+msgstr "Standart"
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:113
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:178
+msgid "State"
+msgstr "Durum"
+
+#: modules/mod_admin/mod_admin.erl:124
+msgid "Status"
+msgstr "Durum"
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:81
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:146
+msgid "Street Line 1"
+msgstr "Adres çubuğu 1"
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:88
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:153
+msgid "Street Line 2"
+msgstr "Adres çubuğu 2"
+
+#: modules/mod_admin/mod_admin.erl:105
+msgid "Structure"
+msgstr "Yapı"
+
+#: modules/mod_admin/templates/_admin_edit_haspart.tpl:3
+msgid "Sub pages"
+msgstr "Alt sayfalar"
+
+#: modules/mod_admin/templates/_admin_edit_basics_form.tpl:16
+msgid "Summary"
+msgstr "Özet"
+
+#: modules/mod_admin/templates/_admin_edit_content_person.tpl:32
+msgid "Sur. prefix"
+msgstr "Soyadı öneki"
+
+#: modules/mod_admin/templates/_admin_edit_content_person.tpl:39
+msgid "Surname"
+msgstr "Soyad"
+
+#: modules/mod_admin/mod_admin.erl:119
+msgid "System"
+msgstr "Sistem"
+
+#: modules/mod_admin/templates/admin_status.tpl:3
+msgid "System Status"
+msgstr "Sistem durumu"
+
+#: modules/mod_admin/templates/admin_status.tpl:8
+msgid "System administration"
+msgstr "sistem yöneticisi"
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:17
+msgid "Telephone"
+msgstr "Telefon"
+
+#: modules/mod_admin/mod_admin.erl:134
+msgid "Text"
+msgstr "Metin"
+
+#: modules/mod_admin/templates/admin_referrers.tpl:13
+msgid "The following"
+msgstr "Takip eden"
+
+#: modules/mod_admin/templates/_action_unlink_undo.tpl:9
+msgid "The page"
+msgstr "Sayfa"
+
+#: modules/mod_admin/templates/_admin_edit_visible_for.tpl:6
+msgid "The whole world"
+msgstr "Tüm dünya"
+
+#: modules/mod_admin/templates/admin_referrers.tpl:11
+msgid "There are no pages with a connection to the page"
+msgstr "Bu sayfayla bağlantılı iki sayfa var"
+
+#: modules/mod_admin/templates/_action_dialog_delete_rsc.tpl:3
+msgid "This can't be undone. Your page will be lost forever."
+msgstr "Geri alınamaz. Sayfa tamamen silinecek."
+
+#: modules/mod_admin/templates/admin_status.tpl:9
+msgid "This page holds a collection of administrative options to perform certain tasks on this Zotonic installation."
+msgstr "Bu sayfa Zotonic yüklemesinde belirli görevleri gerçekleştirmek için yönetici seçeneklerini barındırır."
+
+#: modules/mod_admin/templates/_admin_edit_content_page_connections.tpl:15
+msgid "This page is able to connect to others. For example you can connect it to an actor or a brand."
+msgstr "Bu sayfa diğerleriyle bağlanabilir. Örneğin bir aktör veya markaya bağlayabilirsiniz."
+
+#: modules/mod_admin/templates/_admin_edit_content_advanced.tpl:39
+msgid "This resource was created by the module"
+msgstr "Bu kaynak modül tarafından oluşturuldu"
+
+#: modules/mod_admin/templates/_admin_edit_content_date_range.tpl:25
+msgid "Till"
+msgstr "Kadar"
+
+#: modules/mod_admin/templates/admin_referrers.tpl:20
+#: modules/mod_admin/templates/_admin_edit_basics_form.tpl:5
+#: modules/mod_admin/templates/admin_media.tpl:33
+#: modules/mod_admin/templates/_admin_overview_list.tpl:5
+#: modules/mod_admin/templates/admin_widget_dashboard_latest.tpl:31
+msgid "Title"
+msgstr "Başlık"
+
+#: modules/mod_admin/templates/_action_dialog_connect_tab_find.tpl:5
+msgid "Type text to search"
+msgstr "Arayacağınız metni giriniz"
+
+#: modules/mod_admin/templates/_action_dialog_zlink.tpl:2
+msgid "Type the title of the page you want to connect to."
+msgstr "Bağlantı yapmak istediğiniz sayfa başlığını giriniz."
+
+#: modules/mod_admin/templates/_action_dialog_media_upload.tpl:6
+#: modules/mod_admin/templates/_action_dialog_connect.tpl:28
+#: modules/mod_admin/templates/_action_dialog_new_rsc.tpl:9
+msgid "URL"
+msgstr "URL"
+
+#: modules/mod_admin/templates/_admin_edit_content_advanced.tpl:26
+#: modules/mod_admin/templates/_action_dialog_edit_basics.tpl:24
+msgid "Unique name"
+msgstr "Benzersiz isim"
+
+#: modules/mod_admin/templates/_admin_edit_content_advanced.tpl:45
+msgid "Unique uri"
+msgstr "Benzersiz uri"
+
+#: modules/mod_admin/templates/_action_dialog_media_upload.tpl:3
+#: modules/mod_admin/templates/_action_dialog_connect.tpl:25
+#: modules/mod_admin/templates/_action_dialog_new_rsc.tpl:6
+msgid "Upload"
+msgstr "Yükle"
+
+#: modules/mod_admin/templates/_action_dialog_media_upload_tab_upload.tpl:3
+msgid "Upload a file from your computer."
+msgstr "Bilgisayarınızdan bir dosya yükleyin."
+
+#: modules/mod_admin/templates/_action_dialog_media_upload_tab_url.tpl:4
+msgid "Upload a file which is already on the internet."
+msgstr "İnternetteki bir dosyayı yükleyin."
+
+#: modules/mod_admin/templates/_action_dialog_media_upload_tab_upload.tpl:34
+msgid "Upload file"
+msgstr "Dosya yükle"
+
+#: modules/mod_admin/templates/admin_media.tpl:35
+msgid "Uploaded"
+msgstr "Yüklendi"
+
+#: modules/mod_admin/templates/_action_dialog_zmedia_choose.tpl:36
+msgid "Use the autocompleter to search the media in this site."
+msgstr "Bu sitedeki medyaları aramak için otomatik tamamlayıcıyı kullanın."
+
+#: modules/mod_admin/templates/_action_dialog_connect_tab_find.tpl:8
+msgid "Valid for:"
+msgstr "Geçerli:"
+
+#: modules/mod_admin/templates/_admin_edit_content_page_connections.tpl:49
+msgid "View all referrers"
+msgstr "Tüm referansları göster"
+
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:22
+msgid "View this page."
+msgstr "Bu sayfayı görüntüle."
+
+#: modules/mod_admin/templates/_admin_edit_visible_for.tpl:3
+msgid "Visible for"
+msgstr "Görünür"
+
+#: modules/mod_admin/templates/_admin_edit_content_pub_period.tpl:17
+msgid "Visible from"
+msgstr "Görünürlük başlangıç"
+
+#: modules/mod_admin/templates/_admin_edit_content_pub_period.tpl:23
+msgid "Visible till"
+msgstr "Görünürlük bitiş"
+
+#: modules/mod_admin/templates/_action_dialog_edit_basics.tpl:58
+msgid "Visit full edit page"
+msgstr "Düzenleme sayfasına git"
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:56
+msgid "Visiting address"
+msgstr "Gidilecek adres"
+
+#: modules/mod_admin/templates/_admin_edit_content_address.tpl:47
+#: modules/mod_admin/templates/_admin_edit_content_website.tpl:5
+msgid "Website"
+msgstr "Website"
+
+#: modules/mod_admin/templates/_admin_edit_content_website.tpl:12
+msgid "Website for clicks on image"
+msgstr "Resme tıklandığında gidilecek website"
+
+#: modules/mod_admin/templates/_admin_edit_content_pub_period.tpl:12
+msgid "When a page has a publication date range then it will only be visible between the two dates. Note that when you are allowed to edit the page then you can always see it."
+msgstr "Bir sayfa yayınlanma tarih aralığına sahip olduğunda sadece bu tarih aralığında görünür olur. Düzenleme yetkiniz olan sayfaları her zaman görebilirsiniz."
+
+#: modules/mod_admin/templates/_action_dialog_duplicate_rsc.tpl:2
+msgid "You are going to duplicate the page"
+msgstr "Bu sayfayı çoğaltıyorsunuz"
+
+#: modules/mod_admin/actions/action_admin_delete_media.erl:52
+msgid "You are not allowed to delete this media."
+msgstr "Bu medyayı silmeye yetkiniz yok."
+
+#: modules/mod_admin/actions/action_admin_dialog_delete_rsc.erl:50
+msgid "You are not allowed to delete this page."
+msgstr "Bu sayfayı silmeye yetkiniz yok."
+
+#: modules/mod_admin/templates/admin_edit.tpl:23
+msgid "You are not allowed to edit the"
+msgstr "Düzenleme yetkiniz yok"
+
+#: modules/mod_admin/actions/action_admin_dialog_media_upload.erl:154
+msgid "You don't have permission to change this media item."
+msgstr "Bu medya öğesini değiştirme yetkiniz yok."
+
+#: modules/mod_admin/actions/action_admin_dialog_media_upload.erl:156
+msgid "You don't have the proper permissions to upload this type of file."
+msgstr "Bu dosya tipini yükleme yetkiniz yok."
+
+#: modules/mod_admin/templates/_action_dialog_media_upload_tab_url.tpl:6
+#: modules/mod_admin/templates/_action_dialog_media_upload_tab_upload.tpl:5
+msgid "You have to specify a description of the file to make it easier to find and share."
+msgstr "Dosyanın kolay bulunup paylaşılması için bir tanım yapmalısınız."
+
+#: modules/mod_admin/templates/admin_referrers.tpl:14
+msgid "a connection to the page"
+msgstr "bir sayfa bağlantısı"
+
+#: modules/mod_admin/templates/_admin_edit_content_page_connections.tpl:34
+msgid "add a connection"
+msgstr "bir bağlantı ekle"
+
+#: modules/mod_admin/templates/_admin_edit_depiction.tpl:15
+msgid "add media item"
+msgstr "medya öğesi ekle"
+
+#: modules/mod_admin/templates/_action_dialog_new_rsc_tab.tpl:6
+msgid "and the category of the new page."
+msgstr "ve yeni sayfanın kategorisi."
+
+#: modules/mod_admin/templates/_admin_edit_block_li.tpl:6
+msgid "block"
+msgstr "blok"
+
+#: modules/mod_admin/templates/admin_edit.tpl:15
+msgid "by"
+msgstr "yazan"
+
+#: modules/mod_admin/templates/admin_media.tpl:59
+msgid "delete"
+msgstr "sil"
+
+#: modules/mod_admin/templates/admin_referrers.tpl:40
+#: modules/mod_admin/templates/admin_media.tpl:61
+#: modules/mod_admin/templates/_admin_overview_list.tpl:34
+#: modules/mod_admin/templates/admin_widget_dashboard_latest.tpl:48
+msgid "edit"
+msgstr "düzenle"
+
+#: modules/mod_admin/templates/_edit_button.tpl:7
+msgid "edit this page"
+msgstr "bu sayfayı düzenle"
+
+#: modules/mod_admin/templates/admin_edit.tpl:27
+msgid "editing"
+msgstr "düzenleme"
+
+#: modules/mod_admin/templates/_action_unlink_undo.tpl:9
+msgid "has been disconnected."
+msgstr "bağlantı kesildi."
+
+#: modules/mod_admin/templates/admin_overview.tpl:34
+msgid "matching"
+msgstr "eşleşme"
+
+#: modules/mod_admin/templates/_admin_edit_block_li.tpl:7
+msgid "name"
+msgstr "isim"
+
+#: modules/mod_admin/templates/_action_dialog_new_rsc_tab.tpl:6
+msgid "of the new"
+msgstr "yeni"
+
+#: modules/mod_admin/templates/admin_referrers.tpl:13
+msgid "page has"
+msgstr "sayfa"
+
+#: modules/mod_admin/templates/admin_referrers.tpl:13
+msgid "pages have"
+msgstr "sayfalar"
+
+#: modules/mod_admin/templates/_admin_edit_media.tpl:5
+msgid "pixels"
+msgstr "piksel"
+
+#: modules/mod_admin/templates/admin_widget_dashboard_latest.tpl:19
+#: modules/mod_admin/templates/admin_widget_dashboard_latest.tpl:21
+msgid "show all"
+msgstr "tümünü göster"
+
+#: modules/mod_admin/templates/_action_unlink_undo.tpl:3
+msgid "undo"
+msgstr "geri al"
+
+#: modules/mod_admin/templates/_rsc_edge_media.tpl:12
+#: modules/mod_admin/templates/_choose_media.tpl:9
+msgid "untitled"
+msgstr "başlıksız"
+
+#: modules/mod_admin/templates/_admin_edit_media.tpl:8
+#: modules/mod_admin/templates/_admin_edit_media.tpl:33
+msgid "uploaded on"
+msgstr "yüklenme tarihi"
+
+#: modules/mod_admin/templates/admin_referrers.tpl:39
+#: modules/mod_admin/templates/_admin_edit_content_publish.tpl:22
+#: modules/mod_admin/templates/_admin_overview_list.tpl:33
+#: modules/mod_admin/templates/admin_widget_dashboard_latest.tpl:47
+msgid "view"
+msgstr "görüntüle"
+
+#: modules/mod_admin/templates/admin_logon.tpl:13
+#: modules/mod_admin/templates/_admin_menu.tpl:7
+msgid "visit site"
+msgstr "ziyaret et"
+
