@@ -1,6 +1,6 @@
 https://github.com/archaelus/eshellcode.git
+https://github.com/Asana/kraken.git
 https://github.com/erlware/Erlang-and-OTP-in-Action-Source.git
 https://github.com/erlware/erlware_commons.git
 https://github.com/ndpar/erlang.git
 https://github.com/zotonic/zotonic.git
-https://github.com/Asana/kraken.git
