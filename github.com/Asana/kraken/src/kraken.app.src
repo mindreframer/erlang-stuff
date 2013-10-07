@@ -1,0 +1,30 @@
+{application, kraken,
+  [{description, "Kraken Pubsub Server"},
+   {vsn, "0.83"},
+   {modules, [
+     kraken,
+     kraken_app,
+     kraken_waitress,
+     kraken_router,
+     kraken_router_shard,
+     kraken_sup,
+     kraken_tcp_server,
+     kraken_tcp_acceptor,
+     kraken_tcp_connection,
+     kraken_memcached,
+     kraken_util,
+     kraken_error_logger_h
+   ]},
+   {registered, []},
+   {mod, {kraken_app, []}},
+   {env, [
+     {listen_ip, any},
+     {tcp_server_port, 12355},
+     {max_tcp_clients, 1000},
+     {router_min_fanout_to_warn, 1000},
+     {router_min_publish_to_topics_to_warn, 1000},
+     {messages_stored_per_router_shard, 10000},
+     {num_router_shards, 4}
+   ]},
+   {applications, [kernel, stdlib, log4erl]}]}.
+
