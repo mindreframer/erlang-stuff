@@ -71,25 +71,25 @@ Twitter:
 
     archaelus/eshellcode:
       Erlang Shellcode snippets
-       71 commits, last change: , 34 stars, 4 forks
+       71 commits, last change: , 38 stars, 6 forks
 
     Asana/kraken:
       Distributed Pubsub Server for Realtime Apps
-       40 commits, last change: 2013-10-02 13:20:16, 156 stars, 21 forks
+       57 commits, last change: , 202 stars, 24 forks
 
     erlware/Erlang-and-OTP-in-Action-Source:
       The official "Erlang and OTP in Action" source code - see the README below for more details
-       62 commits, last change: 2013-04-06 06:54:30, 155 stars, 62 forks
+       62 commits, last change: , 177 stars, 81 forks
 
     erlware/erlware_commons:
       Erlware Commons is an Erlware project focused on all aspects of reusable Erlang components.
-       113 commits, last change: 2013-09-17 05:12:02, 54 stars, 19 forks
+       141 commits, last change: , 73 stars, 30 forks
 
     ndpar/erlang:
       Exercises from books "Erlang Programming" and "Programming Erlang", as well as other experiments in Erlang.
-       49 commits, last change: 2013-06-16 17:33:08, 3 stars, 3 forks
+       56 commits, last change: , 5 stars, 4 forks
 
     zotonic/zotonic:
       Zotonic - The Erlang Web Framework  CMS
-       4,054 commits, last change: 2013-10-03 00:13:40, 243 stars, 84 forks
+       4,405 commits, last change: , 289 stars, 98 forks
 <!-- PROJECTS_LIST_END -->
